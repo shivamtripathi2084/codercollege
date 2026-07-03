@@ -1,3 +1,3 @@
 # codercollege
 This is my first repository
-Author Shivam Tripathi
+Author Shivam Tripathi (sonu)
